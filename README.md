@@ -1,2 +1,15 @@
-# umi-jekins
-A umi demo project only used for testing Jekins functions.
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
